@@ -11,17 +11,15 @@ import requests
 
 cookies = {
 
- '_ga': 'GA1.1.494646603.1682950383',
+ '_gid': 'GA1.2.1261081693.1685670498',
 
-'_gid': 'GA1.2.1013999996.1683627762',
+'_ga': 'GA1.2.598386974.1685670497',
 
-'koa:sess':'eyJ1c2VySWQiOjMzNzU4MSwiX2V4cGlyZSI6MTcwODg3MDQxNzk0MSwiX21heEFnZSI6MjU5MjAwMDAwMDB9',
+'koa:sess': 'eyJ1c2VySWQiOjM1MzYzNywiX2V4cGlyZSI6MTcxMTU5MDg5MzAzNywiX21heEFnZSI6MjU5MjAwMDAwMDB9',
 
-'koa:sess.sig': 'pAEY-n6YoNNb2YrAXX7QWPDCMXQ',
+'koa:sess.sig': '_I8IeLXlrniJHTakhb6jpua33JI',
 
-'Cookie.sig': '0.0.0',
-
-'Cookie': 'enabled',
+'_ga_CZFVKMNT9J': 'GS1.1.1685670496.1.1.1685670916.0.0.0'
 
 }
 
