@@ -23,4 +23,5 @@ jobs:
         env:
           COOKIES: ${{ secrets.COOKIES }}
         run: |
+           python glados_checkin.py
            python glados_checkin2.py
